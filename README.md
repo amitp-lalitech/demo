@@ -1,4 +1,4 @@
-## Release Types: Alpha and Beta
+### Release Types: Alpha and Beta
 
 In software development, different release stages help manage stability and features before the final production release.
 
